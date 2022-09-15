@@ -45,3 +45,9 @@ Edit this file (README.md) and complete the following:
 - What code editor are you using?
 
 That is all!
+
+
+## My Submission 
+
+- URL to live application: https://prof-tejera.github.io/homework-2-isyed01/
+- Code Editor: VS Code 
